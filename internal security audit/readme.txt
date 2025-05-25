@@ -7,7 +7,6 @@ To assess the current security posture of Botium Toys by identifying existing as
 All IT assets, systems, processes, and internal controls related to data handling, access management, and regulatory compliance.
 
 ## Contents:
-
 Botium Toys Scope, goals, and risk assessment report.pdf: 
   A comprehensive internal audit report including:
   - Asset inventory
@@ -19,7 +18,6 @@ Botium_Toys_Compliance_Checklist.pdf:
   A checklist evaluating implementation of key security controls and compliance requirements.
 
 ## Key Recommendations
-
 - Implement encryption for sensitive customer and cardholder data
 - Enforce access controls (least privilege, RBAC)
 - Deploy an intrusion detection system (IDS)
